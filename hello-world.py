@@ -1,6 +1,6 @@
 #!/etc/python3.5
 # -*-coding:Utf-8 -*
 
-print("hello world !")
+print("hello fucking world !")
 
 
