@@ -2,5 +2,5 @@
 # -*-coding:Utf-8 -*
 
 print("hello fucking !")
-print(ffffffffffffffffffffffffff)
+
 
